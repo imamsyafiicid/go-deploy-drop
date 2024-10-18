@@ -20,3 +20,5 @@ docker run -d -p 8080:8081 my-go-app
 
 # kill the container
 docker kill [id]
+
+# Reference https://www.youtube.com/watch?v=lIbdPrUpGz4
